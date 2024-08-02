@@ -1,0 +1,25 @@
+
+.navtabs {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  padding: 10px 20px;
+  position: relative;
+  /* margin-bottom: 20px; */
+}
+.navtab {
+  margin: 0 8px;
+  padding: 10px 20px;
+  cursor: pointer;
+  color: #333;
+  transition: color 0.3s;
+}
+.navtab:hover {
+  color: rgb(52 211 153);
+}
+.navtab.active {
+  color:rgb(52 211 153);
+}
+
