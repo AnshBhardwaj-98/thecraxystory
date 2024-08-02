@@ -6,6 +6,7 @@ firebase is used for authentication and database
 CRUD operations can be performed without any issue
 
 for adding any of your story you are not required to log in 
+
 anyone can read , like ,dislike and comment 
 
 to keep a track of your stories you need to login
