@@ -1,4 +1,4 @@
-# thecraxystory
+# thecraxystory (not hosted on web)
 build using next js 14 with tailwind
 
 firebase is used for authentication and database
