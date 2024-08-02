@@ -1,5 +1,6 @@
 # thecraxystory
-build using next js 14 with tailwind 
+build using next js 14 with tailwind
+
 firebase is used for authentication and database
 
 CRUD operations can be performed without any issue
